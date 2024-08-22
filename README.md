@@ -17,7 +17,7 @@ Before running the code, make sure you have the libpcap library installed. On a 
 
 To compile the code, use the following command:
 
-`g++ -o pcap_analysis pcap_analysis.cpp -lpcap`
+`g++ -o pcap_analysis packet-storm.cpp -lpcap`
 
 Then, run the compiled program:
 
