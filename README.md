@@ -1,5 +1,5 @@
 # Storm
-This repository is for the application to the [Graduate Challenge 2024: Operation PACKET STORM]([https://pages.github.com/](https://www.coretechsec.com/operation-packet-storm)).
+This repository is for the application to the [Graduate Challenge 2024: Operation PACKET STORM]((https://www.coretechsec.com/operation-packet-storm)).
 
 ## Expected usage
 
